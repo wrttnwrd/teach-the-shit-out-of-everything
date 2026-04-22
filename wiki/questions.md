@@ -1,7 +1,7 @@
 ---
 title: Questions
 date created: 2026-04-17
-last modified: 2026-04-20
+last modified: 2026-04-22
 Claude model: claude-opus-4-7
 ---
 
@@ -9,7 +9,7 @@ Claude model: claude-opus-4-7
 
 **Summary**: Audience questions surfaced from source materials — questions our audience is asking, or would ask, that we can potentially answer.
 
-**Last updated**: 2026-04-20
+**Last updated**: 2026-04-22
 
 ## Questions from call transcripts
 
@@ -113,6 +113,10 @@ These emerged from the sources but have no satisfactory answer in the wiki yet.
 
 36. **PR for a wizard sanctioned by their own peer order — is that in the [[crisis-pr-course]]?** — The Dragonlance/peer-regulation model from [[wizard-regulation]]. A censure by your own order is a distinct crisis shape from a villager accusation. Not covered in the course, not covered in any source. Would require [[mirella-thane]]'s case work to validate.
 
-## Questions added 2026-04-20
+## Questions added 2026-04-08
 
 37. **How can I detect a scrying sensor in my own sanctum?** — Related to [[scrying]] and question 14 (whether a target can detect being scried). The wiki covers the general answer (See Invisibility, True Sight, Detect Magic) but not the sanctum-specific variant: what a wizard can build into their own warded space — persistent detection wards, scheduled sweeps, alarm triggers — so they do not have to cast a detection spell manually each time. No standalone GSE guidance exists.
+
+## Questions added 2026-04-10
+
+38. **Angry villagers are gathering outside my tower. Do I reinforce my wards, or is this actually a PR problem?** — *Not directly answered, but some context provided.* Answer: almost always PR, not magic. 92% of tower losses come from commoner mobs, and every instinctive magical response (silence, explanation, visible spellcasting) escalates the crisis — see Archibald's three bad decisions. The correct response sequence is produce evidence over explanations, acknowledge the fear rather than arguing the accusation, perform reparation as a ritual gesture, and displace the existing narrative with a true competing one.  There is no specific, clear answer to this question.

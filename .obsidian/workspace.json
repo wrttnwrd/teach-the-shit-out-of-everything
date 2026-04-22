@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "briefs/detecting-scrying-in-your-sanctum.md",
+                "file": "briefs/angry-villagers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "detecting-scrying-in-your-sanctum"
+              "title": "angry-villagers"
             }
           }
         ]
@@ -186,8 +186,10 @@
   },
   "active": "22e8dbc4d2dd689b",
   "lastOpenFiles": [
-    "briefs/when-the-accusation-is-true.md",
+    "wiki/questions.md",
+    "wiki/the-cow-incident.md",
     "briefs/detecting-scrying-in-your-sanctum.md",
+    "briefs/when-the-accusation-is-true.md",
     "briefs/three-frames.md",
     "briefs/first-hour-of-a-wizards-crisis.md",
     "briefs/which-problem-is-a-pr-problem.md",
@@ -197,7 +199,6 @@
     "untitled folder",
     "wiki/wizard-regulation.md",
     "wiki/golden-hour.md",
-    "wiki/questions.md",
     "raw/What is the government's relationship with magic and powerful spellcasters in your world?.md",
     "raw/5 Steps for Navigating the First Hour of a Crisis.md",
     "wiki/narrative-timing.md",
@@ -207,7 +208,6 @@
     "wiki/crisis-pr-course.md",
     "wiki/operational-gaps.md",
     "wiki/scrying.md",
-    "wiki/the-cow-incident.md",
     "raw/gse-calls/README.md",
     "wiki/northwatch-academy.md",
     "wiki/iolanthe-marsk.md",

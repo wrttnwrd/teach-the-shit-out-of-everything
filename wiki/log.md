@@ -1,7 +1,7 @@
 ---
 title: Wiki Log
 date created: 2026-04-17
-last modified: 2026-04-17
+last modified: 2026-04-22
 Claude model: claude-opus-4-6
 ---
 
@@ -82,3 +82,13 @@ Added question 37 ("How can I detect a scrying sensor in my own sanctum?") in a 
 **Brief created:** briefs/detecting-scrying-in-your-sanctum.md
 
 Teach-small, new-stuff brief answering Q37 (and extending Q14). Framed around the shift from cast-on-demand detection to resident-and-scheduled detection — the one thing a wizard can do in their own space that they can't do anywhere else. Named Sera Oak as primary expert; Halric Bren and Mirella Thane as optional secondary interviews. Frictionless CTA is a standalone printable checklist ("The Five-Minute Sanctum Scry Check"). GSE placement is light/trailing.
+
+## 2026-04-22 — Added question 38 and companion brief
+
+**Page updated:** questions.md
+
+Added question 38 ("Angry villagers are gathering outside my tower. Do I reinforce my wards, or is this actually a PR problem?") in a new "Questions added 2026-04-22" section under Public relations. Reverse-engineered from [[the-cow-incident]] as a pre-crisis diagnosis question — the one the wizard asks *before* they know it is a PR problem — rather than the post-mortem the case study currently serves.
+
+**Brief created:** briefs/angry-villagers.md
+
+Teach-small, upgrade brief answering Q38. Frames the incipient-crisis version of [[the-cow-incident]]: three things the wizard's instincts want to do (silence, explanation, demonstration) and the four-step GSE response (evidence, acknowledge the fear, reparation as ritual, narrative displacement). Named Mirella Thane as primary expert, Jenna Rill as secondary for the intake pattern, and an optional working bard for the narrative-displacement step. Frictionless CTA is a one-page "Courtyard Checklist." GSE placement is light — reputation audit as the honest entry point, crisis-pr-course as the deeper version.
