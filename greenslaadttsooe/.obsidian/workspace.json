@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "8c08985afd54a4a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f8f66a26a7c6dfd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22e8dbc4d2dd689b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "briefs/detecting-scrying-in-your-sanctum.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "detecting-scrying-in-your-sanctum"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "178c6f2a1b6dc8ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "472e004d468c7a7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "761c41e5b738d2e2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1db5aac13425e359",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "121e500edec92300",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2960c18d61b862bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "75d490ac641dc3cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1a679f7a5fd6e17",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "wiki/questions.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for questions"
+            }
+          },
+          {
+            "id": "09908d8e355ed58a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "wiki/questions.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from questions"
+            }
+          },
+          {
+            "id": "4a59d6839fbcd795",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d555ff73bd8e1db4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "1cb6a00193d15e70",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "wiki/questions.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of questions"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "22e8dbc4d2dd689b",
+  "lastOpenFiles": [
+    "briefs/when-the-accusation-is-true.md",
+    "briefs/detecting-scrying-in-your-sanctum.md",
+    "briefs/three-frames.md",
+    "briefs/first-hour-of-a-wizards-crisis.md",
+    "briefs/which-problem-is-a-pr-problem.md",
+    "briefs/minimum-viable-security.md",
+    "briefs/sending-stone-hygiene.md",
+    "briefs",
+    "untitled folder",
+    "wiki/wizard-regulation.md",
+    "wiki/golden-hour.md",
+    "wiki/questions.md",
+    "raw/What is the government's relationship with magic and powerful spellcasters in your world?.md",
+    "raw/5 Steps for Navigating the First Hour of a Crisis.md",
+    "wiki/narrative-timing.md",
+    "wiki/archibald.md",
+    "wiki/log.md",
+    "wiki/index.md",
+    "wiki/crisis-pr-course.md",
+    "wiki/operational-gaps.md",
+    "wiki/scrying.md",
+    "wiki/the-cow-incident.md",
+    "raw/gse-calls/README.md",
+    "wiki/northwatch-academy.md",
+    "wiki/iolanthe-marsk.md",
+    "wiki/halric-bren.md",
+    "wiki/delara-venn.md",
+    "wiki/jenna-rill.md",
+    "raw/gse-calls",
+    "raw/gse-calls.zip",
+    "raw/gse-site",
+    "raw/gse-markdown",
+    "raw/gse-markdown.zip",
+    "Clippings",
+    "templates",
+    "wiki"
+  ]
+}
