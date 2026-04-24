@@ -1,6 +1,6 @@
 # TTSOOE: A Primer
 
-Context for when I ask you to help with teaching content — brainstorming topics, surfacing customer questions from the wiki, drafting briefs, evaluating existing content.
+Context for when I ask you to help with teaching content or TTSOOE — brainstorming topics, surfacing customer questions from the wiki, drafting briefs, evaluating existing content.
 
 ## Core idea
 
