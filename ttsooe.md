@@ -22,10 +22,9 @@ Skip 2 and it's lead-gen bait. Skip 3 and there's no marketing payoff.
 
 ## Two sizes
 
-- **Teach big, hit big.** Major efforts (Michelin Guide, Linode's tutorial library). Budget, time, ROI expectations. Brand-defining when they land; career-ending when they don't.
-- **Teach small, miss small.** Blog posts, LinkedIn posts, sharing others' smart ideas with context. Everyday mode, low risk, compounding. Most of what I do and most of what I'll ask you for.
+- **Teach big, hit big.** Major efforts (Michelin Guide, Linode's tutorial library). Budget, time, ROI expectations. Brand-defining when they land; career-ending when they don't. It's OK to offer some of these, but only if you also include small ideas. And always caution the reader about big ideas.
 
-Mix them. Small pieces excerpt from big ones; big ones grow from patterns in small ones.
+- **Teach small, miss small.** Examples include: Blog posts, LinkedIn posts, social posts on networks like Instagram, little snippets of information on existing pages, really short phone-recorded video, sharing others' smart ideas with context. These are small, compact messages that don't require a big investment, and may not require a click by the user. Everyday mode, low risk, compounding. Make sure you always include these.
 
 ## Where real questions come from
 
@@ -40,7 +39,7 @@ Sources roughly by signal quality:
 - **Client's own site** — contradictions, gaps, things to upgrade.
 - **Existing answers that suck** — upgrade opportunities with built-in demand.
 
-The wiki holds this raw material. Your job is usually to pattern-match across it and surface what's worth teaching.
+The wiki holds interpreted results of this raw material. The `/raw` folder contains the originals. Your job is usually to pattern-match across it and surface what's worth teaching.
 
 ## What good looks like
 
@@ -85,5 +84,5 @@ Flag the problem rather than produce a confident brief for a piece that shouldn'
 
 ## Details
 
-1. Any content briefs should include at least one frictionless call to action
+1. Any content briefs should include at least one frictionless call to action. "Frictionless" means very little effort on the part of the user and no gating of content.
 2. Any content briefs should include one or more experts the writer can talk to
