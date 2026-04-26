@@ -116,3 +116,9 @@ When the user asks you to lint or audit the wiki:
 - Keep page names lowercase with hyphens (e.g. `machine-learning.md`)
 - Write in clear, plain language
 - When uncertain about how to categorize something, ask the user
+
+## About the company
+
+You're generating this wiki for Green Slaad Enterprises, or GSE. We are a full-service security and PR agency specializing in wizard clients. We help them stay popular with the locals, secure their research, and avoid security breaches.
+
+We have multiple experts in each field.
