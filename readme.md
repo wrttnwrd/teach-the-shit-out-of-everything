@@ -12,7 +12,7 @@ All credit to Andrej Karpathy for his outstanding [LLM Wiki concept](https://gis
 
 If you want to learn more about teaching the shit out of everything, have a look here:
 
-[https://www.ianlurie.com/digital-marketing/teach-the-shit-out-of-everything/](https://www.ianlurie.com/digital-marketing/teach-the-shit-out-of-everything/)
+[https://www.ianlurie.com/ttsooe/](https://www.ianlurie.com/ttsooe/)
 
 ## Tools
 
@@ -53,7 +53,7 @@ The repository root contains one working directory, `greenslaadttsooe/`, which i
   - `log.md` — append-only record of every change.
   - `questions.md` — running list of audience questions you can (or should) answer.
 - **`briefs/`** — content briefs Claude drafts on request. Each brief pulls from the wiki and follows the TTSOOE structure (problem → brand-agnostic teaching → why your solution).
-- **`.obsidian/`** — Obsidian vault configuration. Safe to commit so collaborators get the same view.
+- **`.obsidian/`** — Obsidian vault configuration. 
 
 ## Usage
 
@@ -65,6 +65,8 @@ Typical sessions look like one of these:
 - **Lint the wiki.** Claude checks for contradictions, orphan pages, missing concept pages, and format drift, then reports findings.
 
 Full workflow rules live in [CLAUDE.md](CLAUDE.md).
+
+Rules specific to Teaching The Shit Ouut Of Everything are in [ttsooe.md](ttsooe.md).
 
 ## Contributing
 
