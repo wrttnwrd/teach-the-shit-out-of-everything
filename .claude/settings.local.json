@@ -1,8 +1,1 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(git init *)",
-      "Bash(git -C /Users/i.lurie/greenslaadttsooe remote -v)"
-    ]
-  }
-}
+
