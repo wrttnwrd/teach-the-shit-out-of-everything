@@ -24,6 +24,7 @@ wiki/         -- markdown pages maintained by Claude
 wiki/questions.md -- a list of customer questions we can answer
 wiki/index.md -- table of contents for the entire wiki
 wiki/log.md   -- append-only record of all operations
+wiki/prompts.md -- a list of potential prompts to track
 ```
 
 ## Ingest workflow

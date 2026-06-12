@@ -65,6 +65,7 @@ Plain, direct, no marketing-speak. Real person who knows the topic talking to an
 ## Common requests
 
 - **"What questions are customers asking?"** — pattern-match the wiki, cluster, rank by frequency and whether a good answer already exists. Consult /raw if you run out of ideas.
+- **"What are some potential prompts?"** - look at the wiki and reddit clippings from `/raw.` Figure out prompts people might type into AI tools and add them to prompts.md.
 - **"What should I write about?"** — topic ideation from the wiki. Flag teach-small vs. teach-big.
 - **"Write a brief for X."** — cover: reader, concrete problem manifestations, brand-agnostic teaching skeleton (biggest part), where the client fits, sources, what to avoid for this topic.
 - **"Is this piece any good?"** — evaluate against the gut-checks above. Name specific failures.
